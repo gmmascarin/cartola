@@ -1,0 +1,508 @@
+https://api.cartolafc.globo.com/partidas
+{
+partidas: [
+{
+partida_id: 221269,
+clube_casa_id: 282,
+clube_casa_posicao: 4,
+clube_visitante_id: 266,
+aproveitamento_mandante: [
+"v",
+"d",
+"d",
+"e",
+"v"
+],
+aproveitamento_visitante: [
+"v",
+"v",
+"e",
+"d",
+"d"
+],
+clube_visitante_posicao: 10,
+partida_data: "2018-06-10 16:00:00",
+local: "Independência",
+valida: true,
+placar_oficial_mandante: null,
+placar_oficial_visitante: null,
+url_confronto: "",
+url_transmissao: ""
+},
+{
+partida_id: 221270,
+clube_casa_id: 293,
+clube_casa_posicao: 17,
+clube_visitante_id: 276,
+aproveitamento_mandante: [
+"e",
+"v",
+"d",
+"d",
+"e"
+],
+aproveitamento_visitante: [
+"v",
+"v",
+"d",
+"e",
+"e"
+],
+clube_visitante_posicao: 6,
+partida_data: "2018-06-09 16:00:00",
+local: "Arena da Baixada",
+valida: true,
+placar_oficial_mandante: null,
+placar_oficial_visitante: null,
+url_confronto: "",
+url_transmissao: ""
+},
+{
+partida_id: 221271,
+clube_casa_id: 315,
+clube_casa_posicao: 16,
+clube_visitante_id: 283,
+aproveitamento_mandante: [
+"d",
+"v",
+"e",
+"d",
+"e"
+],
+aproveitamento_visitante: [
+"v",
+"v",
+"v",
+"e",
+"e"
+],
+clube_visitante_posicao: 5,
+partida_data: "2018-06-09 19:00:00",
+local: "Arena Condá",
+valida: true,
+placar_oficial_mandante: null,
+placar_oficial_visitante: null,
+url_confronto: "",
+url_transmissao: ""
+},
+{
+partida_id: 221272,
+clube_casa_id: 265,
+clube_casa_posicao: 19,
+clube_visitante_id: 263,
+aproveitamento_mandante: [
+"d",
+"v",
+"d",
+"d",
+"d"
+],
+aproveitamento_visitante: [
+"d",
+"e",
+"d",
+"v",
+"e"
+],
+clube_visitante_posicao: 12,
+partida_data: "2018-06-10 16:00:00",
+local: "Fonte Nova",
+valida: true,
+placar_oficial_mandante: null,
+placar_oficial_visitante: null,
+url_confronto: "",
+url_transmissao: ""
+},
+{
+partida_id: 221273,
+clube_casa_id: 264,
+clube_casa_posicao: 9,
+clube_visitante_id: 287,
+aproveitamento_mandante: [
+"d",
+"v",
+"d",
+"e",
+"e"
+],
+aproveitamento_visitante: [
+"e",
+"d",
+"d",
+"v",
+"e"
+],
+clube_visitante_posicao: 14,
+partida_data: "2018-06-09 21:00:00",
+local: "Arena Corinthians",
+valida: true,
+placar_oficial_mandante: null,
+placar_oficial_visitante: null,
+url_confronto: "",
+url_transmissao: ""
+},
+{
+partida_id: 221274,
+clube_casa_id: 267,
+clube_casa_posicao: 13,
+clube_visitante_id: 292,
+aproveitamento_mandante: [
+"d",
+"v",
+"d",
+"e",
+"e"
+],
+aproveitamento_visitante: [
+"v",
+"v",
+"e",
+"v",
+"e"
+],
+clube_visitante_posicao: 2,
+partida_data: "2018-06-09 19:00:00",
+local: "São Januário",
+valida: true,
+placar_oficial_mandante: null,
+placar_oficial_visitante: null,
+url_confronto: "",
+url_transmissao: ""
+},
+{
+partida_id: 221275,
+clube_casa_id: 262,
+clube_casa_posicao: 1,
+clube_visitante_id: 289,
+aproveitamento_mandante: [
+"e",
+"v",
+"v",
+"v",
+"v"
+],
+aproveitamento_visitante: [
+"e",
+"e",
+"d",
+"v",
+"v"
+],
+clube_visitante_posicao: 18,
+partida_data: "2018-06-10 19:00:00",
+local: "Maracanã",
+valida: true,
+placar_oficial_mandante: null,
+placar_oficial_visitante: null,
+url_confronto: "",
+url_transmissao: ""
+},
+{
+partida_id: 221276,
+clube_casa_id: 354,
+clube_casa_posicao: 20,
+clube_visitante_id: 275,
+aproveitamento_mandante: [
+"d",
+"d",
+"d",
+"d",
+"e"
+],
+aproveitamento_visitante: [
+"v",
+"d",
+"d",
+"v",
+"v"
+],
+clube_visitante_posicao: 3,
+partida_data: "2018-06-10 16:00:00",
+local: "Castelão (CE)",
+valida: true,
+placar_oficial_mandante: null,
+placar_oficial_visitante: null,
+url_confronto: "",
+url_transmissao: ""
+},
+{
+partida_id: 221277,
+clube_casa_id: 277,
+clube_casa_posicao: 15,
+clube_visitante_id: 285,
+aproveitamento_mandante: [
+"d",
+"d",
+"d",
+"v",
+"e"
+],
+aproveitamento_visitante: [
+"v",
+"v",
+"v",
+"e",
+"e"
+],
+clube_visitante_posicao: 8,
+partida_data: "2018-06-10 19:00:00",
+local: "Vila Belmiro",
+valida: true,
+placar_oficial_mandante: null,
+placar_oficial_visitante: null,
+url_confronto: "",
+url_transmissao: ""
+},
+{
+partida_id: 221278,
+clube_casa_id: 284,
+clube_casa_posicao: 7,
+clube_visitante_id: 327,
+aproveitamento_mandante: [
+"e",
+"v",
+"e",
+"v",
+"d"
+],
+aproveitamento_visitante: [
+"v",
+"d",
+"d",
+"v",
+"d"
+],
+clube_visitante_posicao: 11,
+partida_data: "2018-06-10 16:00:00",
+local: "Arena do Grêmio",
+valida: true,
+placar_oficial_mandante: null,
+placar_oficial_visitante: null,
+url_confronto: "",
+url_transmissao: ""
+}
+],
+clubes: {
+262: {
+id: 262,
+nome: "Flamengo",
+abreviacao: "FLA",
+posicao: 1,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-30.png"
+}
+},
+263: {
+id: 263,
+nome: "Botafogo",
+abreviacao: "BOT",
+posicao: 12,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/botafogo_45x45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/botafogo_30x30.png"
+}
+},
+264: {
+id: 264,
+nome: "Corinthians",
+abreviacao: "COR",
+posicao: 9,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/corinthians_45x45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/corinthians_30x30.png"
+}
+},
+265: {
+id: 265,
+nome: "Bahia",
+abreviacao: "BAH",
+posicao: 19,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/bahia_45x45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/bahia_30x30.png"
+}
+},
+266: {
+id: 266,
+nome: "Fluminense",
+abreviacao: "FLU",
+posicao: 10,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/fluminense_60x60.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/fluminense_45x45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/Fluminense-escudo.png"
+}
+},
+267: {
+id: 267,
+nome: "Vasco",
+abreviacao: "VAS",
+posicao: 13,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2016/07/29/Vasco-65.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2016/07/29/Vasco-45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2016/07/29/Vasco-30.png"
+}
+},
+275: {
+id: 275,
+nome: "Palmeiras",
+abreviacao: "PAL",
+posicao: 3,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/palmeiras_60x60.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/palmeiras_45x45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/palmeiras_30x30.png"
+}
+},
+276: {
+id: 276,
+nome: "São Paulo",
+abreviacao: "SAO",
+posicao: 6,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/sao_paulo_45x45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/sao_paulo_30x30.png"
+}
+},
+277: {
+id: 277,
+nome: "Santos",
+abreviacao: "SAN",
+posicao: 15,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/santos_45x45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/santos_30x30.png"
+}
+},
+282: {
+id: 282,
+nome: "Atlético-MG",
+abreviacao: "ATL",
+posicao: 4,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo45px.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo30px.png"
+}
+},
+283: {
+id: 283,
+nome: "Cruzeiro",
+abreviacao: "CRU",
+posicao: 5,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_30.png"
+}
+},
+284: {
+id: 284,
+nome: "Grêmio",
+abreviacao: "GRE",
+posicao: 7,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/gremio_45x45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/gremio_30x30.png"
+}
+},
+285: {
+id: 285,
+nome: "Internacional",
+abreviacao: "INT",
+posicao: 8,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter30.png"
+}
+},
+287: {
+id: 287,
+nome: "Vitória",
+abreviacao: "VIT",
+posicao: 14,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/vitoria_60x60.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/vitoria_45x45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/vitoria_30x30.png"
+}
+},
+289: {
+id: 289,
+nome: "Paraná",
+abreviacao: "PAR",
+posicao: 18,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2014/04/13/parana_60x60.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2014/04/13/parana_45x45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2014/04/13/parana_30x30.png"
+}
+},
+292: {
+id: 292,
+nome: "Sport",
+abreviacao: "SPO",
+posicao: 2,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/sport65.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/sport45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/sport30.png"
+}
+},
+293: {
+id: 293,
+nome: "Atlético-PR",
+abreviacao: "ATL",
+posicao: 17,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2015/06/24/atletico-pr_2015_65.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2015/06/24/atletico-pr_2015_45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2015/06/24/atletico-pr_2015_30.png"
+}
+},
+315: {
+id: 315,
+nome: "Chapecoense",
+abreviacao: "CHA",
+posicao: 16,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-165.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-145.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-130.png"
+}
+},
+327: {
+id: 327,
+nome: "América-MG",
+abreviacao: "AME",
+posicao: 11,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/organizacoes/2018/01/24/AmericaMG-65.png",
+45x45: "https://s.glbimg.com/es/sde/f/organizacoes/2018/01/24/AmericaMG-45.png",
+30x30: "https://s.glbimg.com/es/sde/f/organizacoes/2018/01/24/AmericaMG-30.png"
+}
+},
+354: {
+id: 354,
+nome: "Ceará",
+abreviacao: "CEA",
+posicao: 20,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-45x45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-30x30.png"
+}
+}
+},
+rodada: 11
+}

@@ -1,0 +1,581 @@
+https://api.cartolafc.globo.com/time/slug/as-aftas-ardem-fc/8
+{
+    "atletas": [
+        {
+            "nome": "José Ricardo Mannarino",
+            "slug": "",
+            "apelido": "Zé Ricardo",
+            "foto": "https://s.glbimg.com/es/sde/f/2017/08/29/290e1b5521ef67d15a9877e4e2544c0c_FORMATO.png",
+            "atleta_id": 95780,
+            "rodada_id": 8,
+            "clube_id": 267,
+            "posicao_id": 6,
+            "status_id": 7,
+            "pontos_num": 5.22,
+            "preco_num": 9.49,
+            "variacao_num": 0.86,
+            "media_num": 3.2,
+            "jogos_num": 7,
+            "scout": {}
+        },
+        {
+            "nome": "Luiz Rhodolfo Dini Gaioto",
+            "slug": "",
+            "apelido": "Rhodolfo",
+            "foto": "https://s.glbimg.com/es/sde/f/2018/05/04/b731eca97bc5d5e2b7d2f221d3595d5b_FORMATO.png",
+            "atleta_id": 42501,
+            "rodada_id": 8,
+            "clube_id": 262,
+            "posicao_id": 3,
+            "status_id": 7,
+            "pontos_num": 7.1,
+            "preco_num": 7.35,
+            "variacao_num": 1.48,
+            "media_num": 2.05,
+            "jogos_num": 2,
+            "scout": {
+                "PE": 3,
+                "RB": 2,
+                "SG": 1
+            }
+        },
+        {
+            "nome": "Sidney Aparecido Ramos da Silva",
+            "slug": "",
+            "apelido": "Sidão",
+            "foto": "https://s.glbimg.com/es/sde/f/2018/05/26/dfb7fcc1e33bd344f55eb4005cebcecf_FORMATO.png",
+            "atleta_id": 70222,
+            "rodada_id": 8,
+            "clube_id": 276,
+            "posicao_id": 1,
+            "status_id": 7,
+            "pontos_num": -4.3,
+            "preco_num": 8.64,
+            "variacao_num": -1.77,
+            "media_num": 2.46,
+            "jogos_num": 8,
+            "scout": {
+                "GS": 2,
+                "PE": 1
+            }
+        },
+        {
+            "nome": "Sidcley Ferreira Pereira",
+            "slug": "",
+            "apelido": "Sidcley",
+            "foto": "https://s.glbimg.com/es/sde/f/2018/03/23/9db2d3b03abd4966fab935ec9672a2f8_FORMATO.png",
+            "atleta_id": 86764,
+            "rodada_id": 8,
+            "clube_id": 264,
+            "posicao_id": 2,
+            "status_id": 7,
+            "pontos_num": 4.6,
+            "preco_num": 14.64,
+            "variacao_num": 0.34,
+            "media_num": 7.34,
+            "jogos_num": 7,
+            "scout": {
+                "FC": 1,
+                "FS": 2,
+                "PE": 3,
+                "SG": 1
+            }
+        },
+        {
+            "nome": "Éverton Augusto de Barros Ribeiro",
+            "slug": "",
+            "apelido": "Éverton Ribeiro",
+            "foto": "https://s.glbimg.com/es/sde/f/2018/05/04/295690667a6a82986c742697c508ce3d_FORMATO.png",
+            "atleta_id": 51772,
+            "rodada_id": 8,
+            "clube_id": 262,
+            "posicao_id": 4,
+            "status_id": 7,
+            "pontos_num": -0.9,
+            "preco_num": 4.42,
+            "variacao_num": -1.58,
+            "media_num": 3.53,
+            "jogos_num": 6,
+            "scout": {
+                "FC": 1,
+                "FF": 1,
+                "PE": 9,
+                "RB": 1
+            }
+        },
+        {
+            "nome": "Luan Guilherme de Jesus Vieira",
+            "slug": "",
+            "apelido": "Luan",
+            "foto": "https://s.glbimg.com/es/sde/f/2018/05/21/c01a0fcc9657bf0df6cfde4356ece5bc_FORMATO.png",
+            "atleta_id": 86759,
+            "rodada_id": 8,
+            "clube_id": 284,
+            "posicao_id": 5,
+            "status_id": 6,
+            "pontos_num": 1.9,
+            "preco_num": 15.8,
+            "variacao_num": -0.98,
+            "media_num": 5.28,
+            "jogos_num": 6,
+            "scout": {
+                "FC": 2,
+                "FD": 2,
+                "FF": 2,
+                "FS": 2,
+                "PE": 7
+            }
+        },
+        {
+            "nome": "Everton Sousa Soares",
+            "slug": "",
+            "apelido": "Everton",
+            "foto": "https://s.glbimg.com/es/sde/f/2018/05/18/997feae679bb584848d2ef5197f0b406_FORMATO.png",
+            "atleta_id": 86757,
+            "rodada_id": 8,
+            "clube_id": 284,
+            "posicao_id": 5,
+            "status_id": 7,
+            "pontos_num": 8.6,
+            "preco_num": 16.23,
+            "variacao_num": -0.13,
+            "media_num": 9.57,
+            "jogos_num": 6,
+            "scout": {
+                "FC": 1,
+                "FD": 1,
+                "FF": 5,
+                "FS": 3,
+                "PE": 2,
+                "RB": 2
+            }
+        },
+        {
+            "nome": "Gustavo Blanco Petersen Macedo",
+            "slug": "",
+            "apelido": "Gustavo Blanco",
+            "foto": "https://s.glbimg.com/es/sde/f/2018/05/07/6ac39bf60c88040543dee78fc133c427_FORMATO.png",
+            "atleta_id": 91191,
+            "rodada_id": 8,
+            "clube_id": 282,
+            "posicao_id": 4,
+            "status_id": 7,
+            "pontos_num": 17.2,
+            "preco_num": 20.98,
+            "variacao_num": 2.27,
+            "media_num": 10.53,
+            "jogos_num": 7,
+            "scout": {
+                "A": 1,
+                "FD": 1,
+                "FF": 1,
+                "PE": 1,
+                "RB": 7
+            }
+        },
+        {
+            "nome": "Rodrigo Eduardo Costa Marinho",
+            "slug": "",
+            "apelido": "Rodriguinho",
+            "foto": "https://s.glbimg.com/es/sde/f/2018/03/20/c125fa08820e1bbf4a2640e7108b05d2_FORMATO.png",
+            "atleta_id": 61033,
+            "rodada_id": 8,
+            "clube_id": 264,
+            "posicao_id": 4,
+            "status_id": 7,
+            "pontos_num": -1.5,
+            "preco_num": 21.16,
+            "variacao_num": -3.48,
+            "media_num": 8.46,
+            "jogos_num": 5,
+            "scout": {
+                "FC": 3,
+                "FS": 1,
+                "I": 1
+            }
+        },
+        {
+            "nome": "Fabián Cornelio Balbuena González",
+            "slug": "",
+            "apelido": "Balbuena",
+            "foto": "https://s.glbimg.com/es/sde/f/2018/03/19/8391694cbff5bcefdd87bc85cc615423_FORMATO.png",
+            "atleta_id": 87887,
+            "rodada_id": 8,
+            "clube_id": 264,
+            "posicao_id": 3,
+            "status_id": 7,
+            "pontos_num": 13.8,
+            "preco_num": 18.68,
+            "variacao_num": 1.71,
+            "media_num": 8.02,
+            "jogos_num": 6,
+            "scout": {
+                "FF": 2,
+                "PE": 1,
+                "RB": 5,
+                "SG": 1
+            }
+        },
+        {
+            "nome": "Vinicius José Paixão de Oliveira Junior",
+            "slug": "",
+            "apelido": "Vinicius Junior",
+            "foto": "https://s.glbimg.com/es/sde/f/2018/05/04/55d0a5b2076c985057d4359c79ba8b9d_FORMATO.png",
+            "atleta_id": 99535,
+            "rodada_id": 8,
+            "clube_id": 262,
+            "posicao_id": 5,
+            "status_id": 7,
+            "pontos_num": 3.7,
+            "preco_num": 15.88,
+            "variacao_num": -0.83,
+            "media_num": 7.23,
+            "jogos_num": 8,
+            "scout": {
+                "FS": 2,
+                "PE": 6,
+                "RB": 3
+            }
+        },
+        {
+            "nome": "Glaybson Yago Souza Lisboa",
+            "slug": "",
+            "apelido": "Yago Pikachu",
+            "foto": "https://s.glbimg.com/es/sde/f/2018/04/09/abd9b0f5946442941bcc7ff393a5eee9_FORMATO.png",
+            "atleta_id": 80196,
+            "rodada_id": 8,
+            "clube_id": 267,
+            "posicao_id": 2,
+            "status_id": 7,
+            "pontos_num": 17.7,
+            "preco_num": 17.69,
+            "variacao_num": 2.87,
+            "media_num": 8.29,
+            "jogos_num": 7,
+            "scout": {
+                "FS": 4,
+                "G": 1,
+                "PE": 1,
+                "RB": 2,
+                "SG": 1
+            }
+        }
+    ],
+    "clubes": {
+        "262": {
+            "id": 262,
+            "nome": "Flamengo",
+            "abreviacao": "FLA",
+            "posicao": 1,
+            "escudos": {
+                "60x60": "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
+                "45x45": "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-45.png",
+                "30x30": "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-30.png"
+            }
+        },
+        "263": {
+            "id": 263,
+            "nome": "Botafogo",
+            "abreviacao": "BOT",
+            "posicao": 12,
+            "escudos": {
+                "60x60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
+                "45x45": "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/botafogo_45x45.png",
+                "30x30": "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/botafogo_30x30.png"
+            }
+        },
+        "264": {
+            "id": 264,
+            "nome": "Corinthians",
+            "abreviacao": "COR",
+            "posicao": 9,
+            "escudos": {
+                "60x60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
+                "45x45": "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/corinthians_45x45.png",
+                "30x30": "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/corinthians_30x30.png"
+            }
+        },
+        "265": {
+            "id": 265,
+            "nome": "Bahia",
+            "abreviacao": "BAH",
+            "posicao": 19,
+            "escudos": {
+                "60x60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
+                "45x45": "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/bahia_45x45.png",
+                "30x30": "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/bahia_30x30.png"
+            }
+        },
+        "266": {
+            "id": 266,
+            "nome": "Fluminense",
+            "abreviacao": "FLU",
+            "posicao": 10,
+            "escudos": {
+                "60x60": "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/fluminense_60x60.png",
+                "45x45": "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/fluminense_45x45.png",
+                "30x30": "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/Fluminense-escudo.png"
+            }
+        },
+        "267": {
+            "id": 267,
+            "nome": "Vasco",
+            "abreviacao": "VAS",
+            "posicao": 13,
+            "escudos": {
+                "60x60": "https://s.glbimg.com/es/sde/f/equipes/2016/07/29/Vasco-65.png",
+                "45x45": "https://s.glbimg.com/es/sde/f/equipes/2016/07/29/Vasco-45.png",
+                "30x30": "https://s.glbimg.com/es/sde/f/equipes/2016/07/29/Vasco-30.png"
+            }
+        },
+        "275": {
+            "id": 275,
+            "nome": "Palmeiras",
+            "abreviacao": "PAL",
+            "posicao": 3,
+            "escudos": {
+                "60x60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/palmeiras_60x60.png",
+                "45x45": "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/palmeiras_45x45.png",
+                "30x30": "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/palmeiras_30x30.png"
+            }
+        },
+        "276": {
+            "id": 276,
+            "nome": "São Paulo",
+            "abreviacao": "SAO",
+            "posicao": 6,
+            "escudos": {
+                "60x60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
+                "45x45": "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/sao_paulo_45x45.png",
+                "30x30": "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/sao_paulo_30x30.png"
+            }
+        },
+        "277": {
+            "id": 277,
+            "nome": "Santos",
+            "abreviacao": "SAN",
+            "posicao": 15,
+            "escudos": {
+                "60x60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
+                "45x45": "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/santos_45x45.png",
+                "30x30": "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/santos_30x30.png"
+            }
+        },
+        "282": {
+            "id": 282,
+            "nome": "Atlético-MG",
+            "abreviacao": "ATL",
+            "posicao": 4,
+            "escudos": {
+                "60x60": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+                "45x45": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo45px.png",
+                "30x30": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo30px.png"
+            }
+        },
+        "283": {
+            "id": 283,
+            "nome": "Cruzeiro",
+            "abreviacao": "CRU",
+            "posicao": 5,
+            "escudos": {
+                "60x60": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
+                "45x45": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_45.png",
+                "30x30": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_30.png"
+            }
+        },
+        "284": {
+            "id": 284,
+            "nome": "Grêmio",
+            "abreviacao": "GRE",
+            "posicao": 7,
+            "escudos": {
+                "60x60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
+                "45x45": "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/gremio_45x45.png",
+                "30x30": "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/gremio_30x30.png"
+            }
+        },
+        "285": {
+            "id": 285,
+            "nome": "Internacional",
+            "abreviacao": "INT",
+            "posicao": 8,
+            "escudos": {
+                "60x60": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
+                "45x45": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter45.png",
+                "30x30": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter30.png"
+            }
+        },
+        "287": {
+            "id": 287,
+            "nome": "Vitória",
+            "abreviacao": "VIT",
+            "posicao": 14,
+            "escudos": {
+                "60x60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/vitoria_60x60.png",
+                "45x45": "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/vitoria_45x45.png",
+                "30x30": "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/vitoria_30x30.png"
+            }
+        },
+        "289": {
+            "id": 289,
+            "nome": "Paraná",
+            "abreviacao": "PAR",
+            "posicao": 18,
+            "escudos": {
+                "60x60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/13/parana_60x60.png",
+                "45x45": "https://s.glbimg.com/es/sde/f/equipes/2014/04/13/parana_45x45.png",
+                "30x30": "https://s.glbimg.com/es/sde/f/equipes/2014/04/13/parana_30x30.png"
+            }
+        },
+        "292": {
+            "id": 292,
+            "nome": "Sport",
+            "abreviacao": "SPO",
+            "posicao": 2,
+            "escudos": {
+                "60x60": "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/sport65.png",
+                "45x45": "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/sport45.png",
+                "30x30": "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/sport30.png"
+            }
+        },
+        "293": {
+            "id": 293,
+            "nome": "Atlético-PR",
+            "abreviacao": "ATL",
+            "posicao": 17,
+            "escudos": {
+                "60x60": "https://s.glbimg.com/es/sde/f/equipes/2015/06/24/atletico-pr_2015_65.png",
+                "45x45": "https://s.glbimg.com/es/sde/f/equipes/2015/06/24/atletico-pr_2015_45.png",
+                "30x30": "https://s.glbimg.com/es/sde/f/equipes/2015/06/24/atletico-pr_2015_30.png"
+            }
+        },
+        "315": {
+            "id": 315,
+            "nome": "Chapecoense",
+            "abreviacao": "CHA",
+            "posicao": 16,
+            "escudos": {
+                "60x60": "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-165.png",
+                "45x45": "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-145.png",
+                "30x30": "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-130.png"
+            }
+        },
+        "327": {
+            "id": 327,
+            "nome": "América-MG",
+            "abreviacao": "AME",
+            "posicao": 11,
+            "escudos": {
+                "60x60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/01/24/AmericaMG-65.png",
+                "45x45": "https://s.glbimg.com/es/sde/f/organizacoes/2018/01/24/AmericaMG-45.png",
+                "30x30": "https://s.glbimg.com/es/sde/f/organizacoes/2018/01/24/AmericaMG-30.png"
+            }
+        },
+        "354": {
+            "id": 354,
+            "nome": "Ceará",
+            "abreviacao": "CEA",
+            "posicao": 20,
+            "escudos": {
+                "60x60": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
+                "45x45": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-45x45.png",
+                "30x30": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-30x30.png"
+            }
+        }
+    },
+    "posicoes": {
+        "1": {
+            "id": 1,
+            "nome": "Goleiro",
+            "abreviacao": "gol"
+        },
+        "2": {
+            "id": 2,
+            "nome": "Lateral",
+            "abreviacao": "lat"
+        },
+        "3": {
+            "id": 3,
+            "nome": "Zagueiro",
+            "abreviacao": "zag"
+        },
+        "4": {
+            "id": 4,
+            "nome": "Meia",
+            "abreviacao": "mei"
+        },
+        "5": {
+            "id": 5,
+            "nome": "Atacante",
+            "abreviacao": "ata"
+        },
+        "6": {
+            "id": 6,
+            "nome": "Técnico",
+            "abreviacao": "tec"
+        }
+    },
+    "status": {
+        "2": {
+            "id": 2,
+            "nome": "Dúvida"
+        },
+        "3": {
+            "id": 3,
+            "nome": "Suspenso"
+        },
+        "5": {
+            "id": 5,
+            "nome": "Contundido"
+        },
+        "6": {
+            "id": 6,
+            "nome": "Nulo"
+        },
+        "7": {
+            "id": 7,
+            "nome": "Provável"
+        }
+    },
+    "capitao_id": 86759,
+    "time": {
+        "time_id": 2965220,
+        "clube_id": 276,
+        "esquema_id": 3,
+        "globo_id": "05221776-e5ce-46aa-a55b-2cc65cc34789",
+        "facebook_id": null,
+        "foto_perfil": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/placeholder/perfil.png",
+        "nome": "As Aftas Ardem FC",
+        "nome_cartola": "GustavoMelloMascarin",
+        "slug": "as-aftas-ardem-fc",
+        "tipo_escudo": 5,
+        "cor_fundo_escudo": "ffffff",
+        "cor_borda_escudo": "000000",
+        "cor_primaria_estampa_escudo": "ff241d",
+        "cor_secundaria_estampa_escudo": "000000",
+        "url_escudo_svg": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/cartola_svg_100/escudo/89/40/26/0005221776-e5ce-46aa-a55b-2cc65cc3478920180322134026",
+        "url_escudo_png": "https://s2.glbimg.com/8lC6aeMhpCOfgtBPHpf-MkVxdUg=/https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/cartola_svg_100/escudo/89/40/26/0005221776-e5ce-46aa-a55b-2cc65cc3478920180322134026",
+        "url_camisa_svg": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/cartola_svg_100/camisa/89/40/26/0005221776-e5ce-46aa-a55b-2cc65cc3478920180322134026",
+        "url_camisa_png": "https://s2.glbimg.com/JmbUpru2GUjl8vDE-xb_PDrOyvY=/https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/cartola_svg_100/camisa/89/40/26/0005221776-e5ce-46aa-a55b-2cc65cc3478920180322134026",
+        "tipo_estampa_escudo": 2,
+        "tipo_adorno": 5,
+        "tipo_camisa": 1,
+        "tipo_estampa_camisa": 1,
+        "cor_camisa": "ffffff",
+        "cor_primaria_estampa_camisa": "ff241d",
+        "cor_secundaria_estampa_camisa": "000000",
+        "rodada_time_id": 11,
+        "assinante": true,
+        "cadastro_completo": true,
+        "patrocinador1_id": 62,
+        "patrocinador2_id": 65,
+        "temporada_inicial": 2016,
+        "simplificado": false,
+        "sorteio_pro_num": null
+    },
+    "patrimonio": 0,
+    "esquema_id": 3,
+    "pontos": 75.02001953125,
+    "valor_time": 0,
+    "rodada_atual": 8
+}

@@ -1,0 +1,263 @@
+https://api.cartolafc.globo.com/mercado/destaques
+[
+{
+Atleta: {
+atleta_id: 99535,
+nome: "Vinicius José Paixão de Oliveira Junior",
+apelido: "Vinicius Junior",
+foto: "https://s.glbimg.com/es/sde/f/2018/05/04/55d0a5b2076c985057d4359c79ba8b9d_FORMATO.png",
+preco_editorial: 10
+},
+escalacoes: 2427507,
+clube: "FLA",
+escudo_clube: "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
+posicao: "Atacante"
+},
+{
+Atleta: {
+atleta_id: 38909,
+nome: "Diego Ribas da Cunha",
+apelido: "Diego",
+foto: "https://s.glbimg.com/es/sde/f/2018/05/04/2ccade199ef965ef2245240569beb88d_FORMATO.png",
+preco_editorial: 15
+},
+escalacoes: 2157240,
+clube: "FLA",
+escudo_clube: "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
+posicao: "Meia"
+},
+{
+Atleta: {
+atleta_id: 89898,
+nome: "Róger Krug Guedes",
+apelido: "Róger Guedes",
+foto: "https://s.glbimg.com/es/sde/f/2018/05/07/bb6dbd41ce03bd76bd06730bbedf0ec7_FORMATO.png",
+preco_editorial: 7
+},
+escalacoes: 2069309,
+clube: "ATL",
+escudo_clube: "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+posicao: "Atacante"
+},
+{
+Atleta: {
+atleta_id: 94214,
+nome: "Leonardo Campos Duarte da Silva",
+apelido: "Léo Duarte",
+foto: "https://s.glbimg.com/es/sde/f/2018/05/04/ee1f02d44cf27eea6302d6696a7ca975_FORMATO.png",
+preco_editorial: 5
+},
+escalacoes: 1818030,
+clube: "FLA",
+escudo_clube: "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
+posicao: "Zagueiro"
+},
+{
+Atleta: {
+atleta_id: 91191,
+nome: "Gustavo Blanco Petersen Macedo",
+apelido: "Gustavo Blanco",
+foto: "https://s.glbimg.com/es/sde/f/2018/05/07/6ac39bf60c88040543dee78fc133c427_FORMATO.png",
+preco_editorial: 3
+},
+escalacoes: 1585375,
+clube: "ATL",
+escudo_clube: "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+posicao: "Meia"
+},
+{
+Atleta: {
+atleta_id: 70323,
+nome: "Jorge Amorim de Oliveira Campos",
+apelido: "Jorginho",
+foto: "https://s.glbimg.com/es/sde/f/2018/05/22/fd18b15b16f9ef3d49362693fb4e0bd5_FORMATO.png",
+preco_editorial: 5.35
+},
+escalacoes: 1574085,
+clube: "VAS",
+escudo_clube: "https://s.glbimg.com/es/sde/f/equipes/2016/07/29/Vasco-65.png",
+posicao: "Técnico"
+},
+{
+Atleta: {
+atleta_id: 87342,
+nome: "Walter Kannemann",
+apelido: "Kannemann",
+foto: "https://s.glbimg.com/es/sde/f/2018/05/21/7a4b8f949ed4d8b668d8c40a33e50edb_FORMATO.png",
+preco_editorial: 14
+},
+escalacoes: 1553170,
+clube: "GRE",
+escudo_clube: "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
+posicao: "Zagueiro"
+},
+{
+Atleta: {
+atleta_id: 86757,
+nome: "Everton Sousa Soares",
+apelido: "Everton",
+foto: "https://s.glbimg.com/es/sde/f/2018/05/18/997feae679bb584848d2ef5197f0b406_FORMATO.png",
+preco_editorial: 7
+},
+escalacoes: 1521702,
+clube: "GRE",
+escudo_clube: "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
+posicao: "Atacante"
+},
+{
+Atleta: {
+atleta_id: 42116,
+nome: "Willian Gomes de Siqueira",
+apelido: "Willian",
+foto: "https://s.glbimg.com/es/sde/f/2017/04/18/8ce197bf5176cc970a5782466268bd80_FORMATO.png",
+preco_editorial: 10
+},
+escalacoes: 1517546,
+clube: "PAL",
+escudo_clube: "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/palmeiras_60x60.png",
+posicao: "Atacante"
+},
+{
+Atleta: {
+atleta_id: 60819,
+nome: "Anderson Vital da Silva",
+apelido: "Dedé",
+foto: "https://s.glbimg.com/es/sde/f/2018/05/18/868bcae1cfa32a1aa3c4c3e884f54c78_FORMATO.png",
+preco_editorial: 6
+},
+escalacoes: 1446387,
+clube: "CRU",
+escudo_clube: "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
+posicao: "Zagueiro"
+},
+{
+Atleta: {
+atleta_id: 90532,
+nome: "Arthur Henrique Ramos de Oliveira Melo",
+apelido: "Arthur",
+foto: "https://s.glbimg.com/es/sde/f/2018/05/18/9561ba6b9acbbdb615040684051e993d_FORMATO.png",
+preco_editorial: 12
+},
+escalacoes: 1323407,
+clube: "GRE",
+escudo_clube: "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
+posicao: "Meia"
+},
+{
+Atleta: {
+atleta_id: 51772,
+nome: "Éverton Augusto de Barros Ribeiro",
+apelido: "Éverton Ribeiro",
+foto: "https://s.glbimg.com/es/sde/f/2018/05/04/295690667a6a82986c742697c508ce3d_FORMATO.png",
+preco_editorial: 10
+},
+escalacoes: 1173121,
+clube: "FLA",
+escudo_clube: "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
+posicao: "Meia"
+},
+{
+Atleta: {
+atleta_id: 38509,
+nome: "Diego Alves Carreira",
+apelido: "Diego Alves",
+foto: "https://s.glbimg.com/es/sde/f/2018/05/04/6c420bdf0f2609d2a1e1a2a3a3b453b4_FORMATO.png",
+preco_editorial: 13
+},
+escalacoes: 1130015,
+clube: "FLA",
+escudo_clube: "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
+posicao: "Goleiro"
+},
+{
+Atleta: {
+atleta_id: 80196,
+nome: "Glaybson Yago Souza Lisboa",
+apelido: "Yago Pikachu",
+foto: "https://s.glbimg.com/es/sde/f/2018/04/09/abd9b0f5946442941bcc7ff393a5eee9_FORMATO.png",
+preco_editorial: 8
+},
+escalacoes: 1049474,
+clube: "VAS",
+escudo_clube: "https://s.glbimg.com/es/sde/f/equipes/2016/07/29/Vasco-65.png",
+posicao: "Lateral"
+},
+{
+Atleta: {
+atleta_id: 82455,
+nome: "José Rafael Vivian",
+apelido: "Zé Rafael ",
+foto: "https://s.glbimg.com/es/sde/f/2018/05/12/09a8cb904cc431ca446de5378e6cde58_FORMATO.png",
+preco_editorial: 18
+},
+escalacoes: 1044809,
+clube: "BAH",
+escudo_clube: "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
+posicao: "Meia"
+},
+{
+Atleta: {
+atleta_id: 78445,
+nome: "Renê Rodrigues Martins",
+apelido: "Renê",
+foto: "https://s.glbimg.com/es/sde/f/2018/05/04/d9cbd0281e5c54c7aeba457eb5b5c0b3_FORMATO.png",
+preco_editorial: 5
+},
+escalacoes: 996552,
+clube: "FLA",
+escudo_clube: "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
+posicao: "Lateral"
+},
+{
+Atleta: {
+atleta_id: 51413,
+nome: "Walter Leandro Capeloza Artune",
+apelido: "Walter",
+foto: "https://s.glbimg.com/es/sde/f/2018/05/18/11b52002e2c6682af718f09f4c143886_FORMATO.png",
+preco_editorial: 7
+},
+escalacoes: 918143,
+clube: "COR",
+escudo_clube: "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
+posicao: "Goleiro"
+},
+{
+Atleta: {
+atleta_id: 71709,
+nome: "Gustavo Leonardo Cuellar Gallego",
+apelido: "Cuéllar",
+foto: "https://s.glbimg.com/es/sde/f/2018/05/04/f29c0031ffc2adccbe51088049c2dea0_FORMATO.png",
+preco_editorial: 8
+},
+escalacoes: 868645,
+clube: "FLA",
+escudo_clube: "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
+posicao: "Meia"
+},
+{
+Atleta: {
+atleta_id: 100651,
+nome: "Rodrygo Silva de Goes",
+apelido: "Rodrygo",
+foto: "https://s.glbimg.com/es/sde/f/2018/05/23/a4027e39ad5dea6e62cfafe8425bd637_FORMATO.png",
+preco_editorial: 8
+},
+escalacoes: 818104,
+clube: "SAN",
+escudo_clube: "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
+posicao: "Atacante"
+},
+{
+Atleta: {
+atleta_id: 72491,
+nome: "Matheus Simonete Bressanelli",
+apelido: "Bressan",
+foto: "https://s.glbimg.com/es/sde/f/2018/05/18/89ef7379a0826a62657cb5948a315081_FORMATO.png",
+preco_editorial: 4
+},
+escalacoes: 802239,
+clube: "GRE",
+escudo_clube: "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
+posicao: "Zagueiro"
+}
+]

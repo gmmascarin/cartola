@@ -1,0 +1,421 @@
+https://api.cartolafc.globo.com/atletas/pontuados
+{
+rodada: 11,
+atletas: {
+37281: {
+apelido: "Mano Menezes",
+pontuacao: 0,
+scout: { },
+foto: "https://s.glbimg.com/es/sde/f/2018/05/18/b67ea93f254fb3c5b6517b9f84238c19_FORMATO.png",
+posicao_id: 6,
+clube_id: 283
+},
+37306: {
+apelido: "Gilson Kleina",
+pontuacao: 0,
+scout: { },
+foto: "https://s.glbimg.com/es/sde/f/2018/05/24/1d41c49023a010d80f959bd498bb24df_FORMATO.png",
+posicao_id: 6,
+clube_id: 315
+},
+39850: {
+apelido: "Vagner Mancini",
+pontuacao: 0,
+scout: { },
+foto: "https://s.glbimg.com/es/sde/f/2018/03/21/0c565870c992530e8a61a4620fdf8425_FORMATO.png",
+posicao_id: 6,
+clube_id: 287
+},
+40006: {
+apelido: "Abel Braga",
+pontuacao: 0,
+scout: { },
+foto: "https://s.glbimg.com/es/sde/f/2018/05/18/56df7a5b666402197bf8a4e66ddbaa18_FORMATO.png",
+posicao_id: 6,
+clube_id: 266
+},
+41929: {
+apelido: "Renato Gaúcho",
+pontuacao: 0,
+scout: { },
+foto: "https://s.glbimg.com/es/sde/f/2018/05/21/735c0f10e782fe88dc4dde7e95494223_FORMATO.png",
+posicao_id: 6,
+clube_id: 284
+},
+62137: {
+apelido: "Enderson Moreira",
+pontuacao: 0,
+scout: { },
+foto: "https://s.glbimg.com/es/sde/f/2018/03/17/4a6e561bbf1123eb516161678dea131e_FORMATO.png",
+posicao_id: 6,
+clube_id: 327
+},
+70323: {
+apelido: "Jorginho",
+pontuacao: 0,
+scout: { },
+foto: "https://s.glbimg.com/es/sde/f/2018/05/22/fd18b15b16f9ef3d49362693fb4e0bd5_FORMATO.png",
+posicao_id: 6,
+clube_id: 267
+},
+70526: {
+apelido: "Rogério Micale",
+pontuacao: 0,
+scout: { },
+foto: "https://s.glbimg.com/es/sde/f/2018/03/21/b716462900fb6d306d797525d21c94c2_FORMATO.png",
+posicao_id: 6,
+clube_id: 289
+},
+72391: {
+apelido: "Fernando Diniz",
+pontuacao: 0,
+scout: { },
+foto: "https://s.glbimg.com/es/sde/f/2018/03/01/744e7ddbce3e389aa300edd8ce854afc_FORMATO.png",
+posicao_id: 6,
+clube_id: 293
+},
+72588: {
+apelido: "Lisca",
+pontuacao: 0,
+scout: { },
+foto: "https://s.glbimg.com/es/sde/f/2018/06/05/28dffdf0f5fa7f305e52bcd7ee449f9a_FORMATO.png",
+posicao_id: 6,
+clube_id: 354
+},
+73766: {
+apelido: "Diego Aguirre",
+pontuacao: 0,
+scout: { },
+foto: "https://s.glbimg.com/es/sde/f/2018/05/26/dcbc37c3f6682ed7f7fe61f97e02ff48_FORMATO.png",
+posicao_id: 6,
+clube_id: 276
+},
+77552: {
+apelido: "Osmar Loss",
+pontuacao: 0,
+scout: { },
+foto: "https://s.glbimg.com/es/sde/f/2018/05/23/01c6dae8fee10d4a5a525a2c245e55a7_FORMATO.png",
+posicao_id: 6,
+clube_id: 264
+},
+79437: {
+apelido: "Roger Machado ",
+pontuacao: 0,
+scout: { },
+foto: "https://s.glbimg.com/es/sde/f/2018/03/01/212d053449b688cbf5c418199f7d8e8d_FORMATO.png",
+posicao_id: 6,
+clube_id: 275
+},
+81794: {
+apelido: "Cláudio Prates",
+pontuacao: 0,
+scout: { },
+foto: "https://s.glbimg.com/es/sde/f/2018/06/05/97c3816b8b5e9e06f221af1c998fe016_FORMATO.png",
+posicao_id: 6,
+clube_id: 265
+},
+82792: {
+apelido: "Maurício Barbieri",
+pontuacao: 0,
+scout: { },
+foto: "https://s.glbimg.com/es/sde/f/2018/05/04/7e25588c269efbad7eeebc8cacae8c11_FORMATO.png",
+posicao_id: 6,
+clube_id: 262
+},
+84761: {
+apelido: "Claudinei Oliveira",
+pontuacao: 0,
+scout: { },
+foto: "https://s.glbimg.com/es/sde/f/2018/04/27/01600179bedbd202493bb520c8123ae3_FORMATO.png",
+posicao_id: 6,
+clube_id: 292
+},
+84863: {
+apelido: "Alberto Valentim",
+pontuacao: 0,
+scout: { },
+foto: "https://s.glbimg.com/es/sde/f/2018/03/20/c6b54edc93e180bf641056650be46611_FORMATO.png",
+posicao_id: 6,
+clube_id: 263
+},
+92180: {
+apelido: "Jair Ventura",
+pontuacao: 0,
+scout: { },
+foto: "https://s.glbimg.com/es/sde/f/2018/05/23/ea8e4091e7b39be70135c664e035a5d7_FORMATO.png",
+posicao_id: 6,
+clube_id: 277
+},
+92273: {
+apelido: "Odair Hellmann",
+pontuacao: 0,
+scout: { },
+foto: "https://s.glbimg.com/es/sde/f/2018/03/20/e106ae4a3a04464c776be27a72b98b9e_FORMATO.png",
+posicao_id: 6,
+clube_id: 285
+},
+101957: {
+apelido: "Thiago Larghi",
+pontuacao: 0,
+scout: { },
+foto: "https://s.glbimg.com/es/sde/f/2018/05/07/881592a84044888fec552539c48ea86d_FORMATO.png",
+posicao_id: 6,
+clube_id: 282
+}
+},
+clubes: {
+262: {
+id: 262,
+nome: "Flamengo",
+abreviacao: "FLA",
+posicao: 1,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-30.png"
+}
+},
+263: {
+id: 263,
+nome: "Botafogo",
+abreviacao: "BOT",
+posicao: 12,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/botafogo_45x45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/botafogo_30x30.png"
+}
+},
+264: {
+id: 264,
+nome: "Corinthians",
+abreviacao: "COR",
+posicao: 9,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/corinthians_45x45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/corinthians_30x30.png"
+}
+},
+265: {
+id: 265,
+nome: "Bahia",
+abreviacao: "BAH",
+posicao: 19,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/bahia_45x45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/bahia_30x30.png"
+}
+},
+266: {
+id: 266,
+nome: "Fluminense",
+abreviacao: "FLU",
+posicao: 10,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/fluminense_60x60.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/fluminense_45x45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/Fluminense-escudo.png"
+}
+},
+267: {
+id: 267,
+nome: "Vasco",
+abreviacao: "VAS",
+posicao: 13,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2016/07/29/Vasco-65.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2016/07/29/Vasco-45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2016/07/29/Vasco-30.png"
+}
+},
+275: {
+id: 275,
+nome: "Palmeiras",
+abreviacao: "PAL",
+posicao: 3,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/palmeiras_60x60.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/palmeiras_45x45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/palmeiras_30x30.png"
+}
+},
+276: {
+id: 276,
+nome: "São Paulo",
+abreviacao: "SAO",
+posicao: 6,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/sao_paulo_45x45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/sao_paulo_30x30.png"
+}
+},
+277: {
+id: 277,
+nome: "Santos",
+abreviacao: "SAN",
+posicao: 15,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/santos_45x45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/santos_30x30.png"
+}
+},
+282: {
+id: 282,
+nome: "Atlético-MG",
+abreviacao: "ATL",
+posicao: 4,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo45px.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo30px.png"
+}
+},
+283: {
+id: 283,
+nome: "Cruzeiro",
+abreviacao: "CRU",
+posicao: 5,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_30.png"
+}
+},
+284: {
+id: 284,
+nome: "Grêmio",
+abreviacao: "GRE",
+posicao: 7,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/gremio_45x45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/gremio_30x30.png"
+}
+},
+285: {
+id: 285,
+nome: "Internacional",
+abreviacao: "INT",
+posicao: 8,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter30.png"
+}
+},
+287: {
+id: 287,
+nome: "Vitória",
+abreviacao: "VIT",
+posicao: 14,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/vitoria_60x60.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/vitoria_45x45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2013/12/16/vitoria_30x30.png"
+}
+},
+289: {
+id: 289,
+nome: "Paraná",
+abreviacao: "PAR",
+posicao: 18,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2014/04/13/parana_60x60.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2014/04/13/parana_45x45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2014/04/13/parana_30x30.png"
+}
+},
+292: {
+id: 292,
+nome: "Sport",
+abreviacao: "SPO",
+posicao: 2,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/sport65.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/sport45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/sport30.png"
+}
+},
+293: {
+id: 293,
+nome: "Atlético-PR",
+abreviacao: "ATL",
+posicao: 17,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2015/06/24/atletico-pr_2015_65.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2015/06/24/atletico-pr_2015_45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2015/06/24/atletico-pr_2015_30.png"
+}
+},
+315: {
+id: 315,
+nome: "Chapecoense",
+abreviacao: "CHA",
+posicao: 16,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-165.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-145.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-130.png"
+}
+},
+327: {
+id: 327,
+nome: "América-MG",
+abreviacao: "AME",
+posicao: 11,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/organizacoes/2018/01/24/AmericaMG-65.png",
+45x45: "https://s.glbimg.com/es/sde/f/organizacoes/2018/01/24/AmericaMG-45.png",
+30x30: "https://s.glbimg.com/es/sde/f/organizacoes/2018/01/24/AmericaMG-30.png"
+}
+},
+354: {
+id: 354,
+nome: "Ceará",
+abreviacao: "CEA",
+posicao: 20,
+escudos: {
+60x60: "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
+45x45: "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-45x45.png",
+30x30: "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-30x30.png"
+}
+}
+},
+posicoes: {
+1: {
+id: 1,
+nome: "Goleiro",
+abreviacao: "gol"
+},
+2: {
+id: 2,
+nome: "Lateral",
+abreviacao: "lat"
+},
+3: {
+id: 3,
+nome: "Zagueiro",
+abreviacao: "zag"
+},
+4: {
+id: 4,
+nome: "Meia",
+abreviacao: "mei"
+},
+5: {
+id: 5,
+nome: "Atacante",
+abreviacao: "ata"
+},
+6: {
+id: 6,
+nome: "Técnico",
+abreviacao: "tec"
+}
+},
+total_atletas: 20
+}

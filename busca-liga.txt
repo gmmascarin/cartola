@@ -1,0 +1,15 @@
+https://api.cartolafc.globo.com/ligas?q=Amigos do Cartola Rincão 2018
+[
+    {
+        "liga_id": 247866,
+        "nome": "AMIGOS DO CARTOLA RINCÃO 2018",
+        "descricao": "LIGA DE AMIGOS DE RINCÃO E REGIÃO, ZUAR E NO FIM TOMAR UMA CERVEJA",
+        "slug": "amigos-do-cartola-rincao-2018",
+        "imagem": "https://s2.glbimg.com/pt4xolUZv30zBOF3-0nVLcsvHzU=/https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/cartola_svg_104/flamula/66/54/45/0024786620180403105445",
+        "tipo": "Fechada",
+        "mata_mata": false,
+        "quantidade_times": null,
+        "vagas_restantes": null,
+        "criacao": "2018-04-03 10:54:45"
+    }
+]

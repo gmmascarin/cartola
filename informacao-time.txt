@@ -1,0 +1,14 @@
+https://api.cartolafc.globo.com/times?q=As Aftas Ardem FC
+[
+{
+time_id: 2965220,
+nome: "As Aftas Ardem FC",
+nome_cartola: "GustavoMelloMascarin",
+slug: "as-aftas-ardem-fc",
+facebook_id: null,
+url_escudo_png: "https://s2.glbimg.com/8lC6aeMhpCOfgtBPHpf-MkVxdUg=/https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/cartola_svg_100/escudo/89/40/26/0005221776-e5ce-46aa-a55b-2cc65cc3478920180322134026",
+url_escudo_svg: "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/cartola_svg_100/escudo/89/40/26/0005221776-e5ce-46aa-a55b-2cc65cc3478920180322134026",
+foto_perfil: "https://cartolafc.globo.com/static/img/placeholder_perfil.png",
+assinante: true
+}
+]
